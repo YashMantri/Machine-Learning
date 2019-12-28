@@ -6,4 +6,4 @@
 
 3) K-means clustering on Fashion-Mnist dataset
 
-4) Implement Reinforcement Learning algorithm: Q-Learning
+4) Implementing Reinforcement Learning algorithm: Q-Learning
